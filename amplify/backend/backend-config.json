@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"truckloaddemoa937d296": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}
